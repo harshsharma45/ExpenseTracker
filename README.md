@@ -1,5 +1,4 @@
 # ExpenseTracker
-```markdown
 # Python CLI Expense Tracker: Financial Dashboard
 
 ## 📖 Overview
@@ -75,7 +74,5 @@ Enter your choice:
 * **Select `2**` to type the exact amount of an expense you wish to delete. The system will safely remove it and recalculate the total.
 * **Select `3**` to see your current total spent and the number of transactions.
 * **Select `4**` to display the final total and exit the application gracefully.
-
-```
 
 ```
